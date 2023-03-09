@@ -1,0 +1,15 @@
+C:\Users\scomakli\source\repos\OOPExample\OOPExample\bin\Debug\net6.0\OOPExample.exe
+C:\Users\scomakli\source\repos\OOPExample\OOPExample\bin\Debug\net6.0\OOPExample.deps.json
+C:\Users\scomakli\source\repos\OOPExample\OOPExample\bin\Debug\net6.0\OOPExample.runtimeconfig.json
+C:\Users\scomakli\source\repos\OOPExample\OOPExample\bin\Debug\net6.0\OOPExample.dll
+C:\Users\scomakli\source\repos\OOPExample\OOPExample\bin\Debug\net6.0\OOPExample.pdb
+C:\Users\scomakli\source\repos\OOPExample\OOPExample\obj\Debug\net6.0\OOPExample.csproj.AssemblyReference.cache
+C:\Users\scomakli\source\repos\OOPExample\OOPExample\obj\Debug\net6.0\OOPExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scomakli\source\repos\OOPExample\OOPExample\obj\Debug\net6.0\OOPExample.AssemblyInfoInputs.cache
+C:\Users\scomakli\source\repos\OOPExample\OOPExample\obj\Debug\net6.0\OOPExample.AssemblyInfo.cs
+C:\Users\scomakli\source\repos\OOPExample\OOPExample\obj\Debug\net6.0\OOPExample.csproj.CoreCompileInputs.cache
+C:\Users\scomakli\source\repos\OOPExample\OOPExample\obj\Debug\net6.0\OOPExample.dll
+C:\Users\scomakli\source\repos\OOPExample\OOPExample\obj\Debug\net6.0\refint\OOPExample.dll
+C:\Users\scomakli\source\repos\OOPExample\OOPExample\obj\Debug\net6.0\OOPExample.pdb
+C:\Users\scomakli\source\repos\OOPExample\OOPExample\obj\Debug\net6.0\OOPExample.genruntimeconfig.cache
+C:\Users\scomakli\source\repos\OOPExample\OOPExample\obj\Debug\net6.0\ref\OOPExample.dll
