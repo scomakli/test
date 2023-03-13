@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace OOPExample.Models
 {
-    public class Car : Interfaces.IVehicle
+    public class Car : Interfaces.IVehicle, Interfaces.IInfo<Car>
     {
-        public Car() 
+        public Car(string _type, string _brand, string _modelyear) 
         { 
-            Type= "Araba";
-            Brand= "BMW";
-            ModelYear= "2021";
+            Type=_type;
+            Brand= _brand;
+            ModelYear= _modelyear;
         }
         public string Type { get; set; }
         public string Brand { get; set; }       
@@ -26,6 +26,11 @@ namespace OOPExample.Models
         public void EnteredPark()
         {
             Console.WriteLine(ModelYear + " Model " + Brand + " Marka " + Type + " Otoparka Girdi.");
+        }
+     
+        public void Info()
+        {
+            Console.WriteLine("Başarılı");
         }
     }
 

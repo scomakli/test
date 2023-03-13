@@ -1,4 +1,5 @@
-﻿using System;
+﻿using OOPExample.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,14 +7,14 @@ using System.Threading.Tasks;
 
 namespace OOPExample.Models
 {
-    public class Truck : Interfaces.IVehicle
+    public class Truck : Interfaces.IVehicle,IInfo<Truck>
     {
 
-        public Truck()
+        public Truck(string _type,string _brand,string _modelyear)
         {
-            Type = "Kamyon";
-            Brand = "Scania";
-            ModelYear = "2011";
+            Type = _type;
+            Brand = _brand;
+            ModelYear = _modelyear;
         }
 
 
@@ -29,6 +30,11 @@ namespace OOPExample.Models
         public void EnteredPark()
         {
             Console.WriteLine(ModelYear + " Model " + Brand + " Marka " + Type + " Otoparka Girdi.");
+        }
+
+        public void Info()
+        {
+            Console.WriteLine("Başarılı");
         }
     }
 }
